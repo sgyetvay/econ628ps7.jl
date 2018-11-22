@@ -3,6 +3,10 @@ uuid = "1d4d05e6-edea-11e8-168a-b147bc23f4d8"
 authors = ["Sam Gyetvay <sam.gyetvay@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
